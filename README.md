@@ -53,16 +53,19 @@ Drive/
 │
 
 ├─ middlewares/
+
 │ ├─ authe.js
 │
 
 ├─ routes/
 
 │ ├─ user.routes.js
+
 │ ├─ files.routes.js
 │
 ├─ public/
 │
+
 ├─ views/
 
 │ ├─ home.ejs
