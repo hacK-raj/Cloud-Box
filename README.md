@@ -37,18 +37,25 @@ Drive/
 
 │
 ├─ config/
+
 │ ├─ db.js
+
 │ ├─ firebase.config.js
+
 │ ├─ multer.config.js
 │
+
 ├─ models/
 
 │ ├─ user.models.js
+
 │ ├─ files.models.js
 │
+
 ├─ middlewares/
 │ ├─ authe.js
 │
+
 ├─ routes/
 
 │ ├─ user.routes.js
@@ -59,9 +66,12 @@ Drive/
 ├─ views/
 
 │ ├─ home.ejs
+
 │ ├─ login.ejs
+
 │ ├─ register.ejs
 │
+
 ├─ server.js
 └─ package.json
 
