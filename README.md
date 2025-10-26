@@ -101,13 +101,17 @@ npm install
 Create a .env file:
 
 PORT=3000
+
 MONGODB_URI=your_mongodb_url
+
 JWT_SECRET=your_secret
+
 FIREBASE_BUCKET_NAME=your_bucket_name
 
 Add Firebase credentials JSON file in config folder.
 
 ▶️ Run the App
+
 npm start
 
 
@@ -139,7 +143,9 @@ Ensures only logged-in users access their files.
 ## ☁️ File Storage
 
 Multer handles file upload
+
 Firebase stores files securely
+
 Signed URL expires automatically for safety
 
 ## 💡 Future Enhancements
@@ -166,6 +172,7 @@ This project is Open Source.
 ## 👨‍💻 Author
 
 Rajdeep Seal
+
 BTech CST @ JIS College of Engineering
 
 Passionate about Backend & Cloud Development
