@@ -34,6 +34,7 @@ Users can register, log in, upload, download, and view personal files securely.
 ## 📂 Project Structure
 
 Drive/
+
 │
 ├─ config/
 │ ├─ db.js
@@ -41,6 +42,7 @@ Drive/
 │ ├─ multer.config.js
 │
 ├─ models/
+
 │ ├─ user.models.js
 │ ├─ files.models.js
 │
@@ -48,12 +50,14 @@ Drive/
 │ ├─ authe.js
 │
 ├─ routes/
+
 │ ├─ user.routes.js
 │ ├─ files.routes.js
 │
 ├─ public/
 │
 ├─ views/
+
 │ ├─ home.ejs
 │ ├─ login.ejs
 │ ├─ register.ejs
@@ -100,9 +104,13 @@ http://localhost:3000
 ## 👤 User Flow
 
 1.Register a new account
+
 2.Login
+
 3.Redirected to home page
+
 4.Upload files
+
 5.Download securely via signed URL
 
 ## 🔐 Authentication
@@ -145,4 +153,5 @@ This project is Open Source.
 
 Rajdeep Seal
 BTech CST @ JIS College of Engineering
+
 Passionate about Backend & Cloud Development
